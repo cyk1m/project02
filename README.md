@@ -15,3 +15,4 @@
   <li>주소를 키워드로 검색하고, 해당되는 주소 조회 가능</li>
   <li>선택한 호텔 정보와 객실 정보를 예약 페이지로 전달하는 기능 구현</li>
 </ul>
+프로젝트 영상: https://www.youtube.com/watch?v=OYlbSN_3hmE
